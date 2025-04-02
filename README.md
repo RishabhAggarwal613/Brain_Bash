@@ -42,6 +42,3 @@ password: adminpass123
 
 Please log any issues found in the repository
 
-### License
-
-Brain_Bash is released under the MIT License
